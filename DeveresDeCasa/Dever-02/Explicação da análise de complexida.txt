@@ -1,0 +1,3 @@
+Explicação da análise de complexidade
+
+O tempo de execução do algoritmo cresce linearmente com o tamanho da entrada nnn. Isso significa que, se nnn duplicar, o tempo de execução também duplicará, tornando esta abordagem direta e intuitiva em relação ao comportamento esperado do tempo de execução para entradas maiores. Apesar de o fatorial ser uma função que cresce rapidamente em termos de valor, em relação à complexidade de tempo do cálculo recursivo, o tempo de execução se mantém linear em relação ao número de chamadas de função executadas antes de atingir o caso base. Os resultados de tempo de execução para os diferentes valores de nnn exibidos acima poderão variar dependendo do ambiente, mas geralmente teremos tempos crescentes à medida que nnn aumenta
